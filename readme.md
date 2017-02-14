@@ -6,7 +6,7 @@ It is so simple to install.
 
 We have made a deployment file to test your own blog on Heroku! It is easy. Just click "Deploy to Heroku" button.
 
-<a href="https://heroku.com/deploy?template=https://github.com/se/heroku-core-test/tree/master">
+<a href="https://heroku.com/deploy?template=https://github.com/blogsa/blog/tree/master">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 
