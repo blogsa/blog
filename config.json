@@ -1,0 +1,11 @@
+{
+    "Title": "My Git Blog!",
+    "Description": "This will help you to understand my blog!",
+    "Keywords": "blogs, blogsa, blog, git blog",
+    "Repository": {
+        "PostsFolder": "posts",
+        "PagesFolder": "pages",
+        "PostsRoute": "post/{name}",
+        "PagesRoute": "page/{name}"
+    }
+}
